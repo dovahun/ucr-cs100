@@ -1,4 +1,4 @@
-#Introduction to git
+# Introduction to git
 
 The version control system(VCS) `git` is one of VCS tools used for tracking changes in your project.
 This tool is developed by Linus Torvaldus.
